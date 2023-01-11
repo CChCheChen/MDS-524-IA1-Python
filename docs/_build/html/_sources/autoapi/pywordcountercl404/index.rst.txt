@@ -1,0 +1,24 @@
+:py:mod:`pywordcountercl404`
+============================
+
+.. py:module:: pywordcountercl404
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   plotting/index.rst
+   pywordcountercl404/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+

@@ -1,0 +1,42 @@
+:py:mod:`pywordcountercl404.pywordcountercl404`
+===============================================
+
+.. py:module:: pywordcountercl404.pywordcountercl404
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   pywordcountercl404.pywordcountercl404.load_text
+   pywordcountercl404.pywordcountercl404.clean_text
+   pywordcountercl404.pywordcountercl404.count_words
+
+
+
+.. py:function:: load_text(input_file)
+
+   _summary_
+
+   :param input_file: _description_
+   :type input_file: _type_
+
+   :returns: _description_
+   :rtype: _type_
+
+
+.. py:function:: clean_text(text)
+
+   Lowercase and remove punctuation from a string.
+
+
+.. py:function:: count_words(input_file)
+
+   Count unique words in a string.
+
+
