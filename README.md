@@ -2,6 +2,8 @@
 
 Calculate word counts in a text file!
 
+https://pywordcountercl404.readthedocs.io/en/latest/
+
 ## Installation
 
 ```bash
